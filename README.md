@@ -22,3 +22,10 @@ lineReader('email-list.txt', function(line) {
   }
 )
 ```
+
+# License
+
+<a href='http://www.wtfpl.net/'><img src='https://raw.githubusercontent.com/Klortho/dtd-diagram/28476aa90574bbedef999d8f88b0ead9dac2a819/wtfpl-badge-1.png'/></a>
+
+See [LICENSE.txt](LICENSE.txt).
+
