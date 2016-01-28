@@ -1,0 +1,26 @@
+{
+  "name": "@klortho/line-reader",
+  "version": "0.0.1",
+  "description": "line-by-line file reader that uses promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klortho/line-reader.git"
+  },
+  "author": "Chris Maloney",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/klortho/line-reader/issues"
+  },
+  "homepage": "https://github.com/klortho/line-reader#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.4.4",
+    "chai-as-promised": "^5.2.0"
+  },
+  "dependencies": {
+  }
+}
