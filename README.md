@@ -1,5 +1,7 @@
 # line-reader
 
+On npm [here](https://www.npmjs.com/package/@klortho/line-reader).
+
 A very simple Node.js module that reads a file line-by-line, and returns
 a Promise. The constructor takes a callback function that's called once
 for each line. The returned Promise resolves when the reading is done.
