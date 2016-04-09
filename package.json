@@ -1,6 +1,6 @@
 {
   "name": "@klortho/line-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "line-by-line file reader that returns a promise",
   "main": "index.js",
   "scripts": {
